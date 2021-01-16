@@ -26,4 +26,4 @@ The training dataset contains 4250 samples. Each sample contains 19 features and
 "churn", (yes/no). Customer churn - target variable.
 The submissions will be evaluated using the test Accuracy criterion:
 
-Accuracy=Number of correct predictionsNumber of total test samples
+Accuracy=Number of correct predictions / Number of total test samples
